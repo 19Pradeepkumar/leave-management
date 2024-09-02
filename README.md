@@ -63,7 +63,7 @@ Leave Management WebApp - This project is designed to simplify the process of ma
 <h4>Also when accepting or rejecting a leave by a manager it also shows their past leaves history</h4>
 <br>
 <br>
-<img width="944" alt="Screenshot 2024-09-02 102138" src="https://github.com/user-attachments/assets/f421dd08-b40a-4b6d-8c18-f8a6b332ddf0">
+<img width="955" alt="Screenshot 2024-09-02 175943" src="https://github.com/user-attachments/assets/2b1ad5f1-42b8-441d-8561-99b8619db4d1">
 <br>
 <br>
 <h4>My team members data is displayed as cards</h4>
