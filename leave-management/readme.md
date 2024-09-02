@@ -1,5 +1,14 @@
 Login ,Logout ,Profile Functionalties are implemented when clicked on main page even without logging directly it also redirects to the login page
 
+
+Summary of leaves of myself and my team also validation based on gender (paternity or maternity leave)
+
+Apply leave is implemented and also when applying if the dates is on sunday and saturday or a previous date will show enter a valid date
+
+My team members data is displayed as cards
+
+logout profile card
+
 <br>
 <img width="951" alt="Screenshot 2024-09-01 220408" src="https://github.com/user-attachments/assets/52dbe79d-734a-4d20-becb-7e07fa71f564">
 <br>
@@ -49,4 +58,5 @@ My team members data is displayed as cards
 <br>
 <br>
 logout profile card
+<br>
 <img width="698" alt="Screenshot 2024-09-02 101832" src="https://github.com/user-attachments/assets/dcbe8de0-f7c1-425d-a84f-e02711ca9e43">
