@@ -1,3 +1,11 @@
+
+<h1>Overview</h1>
+Leave Management WebApp - This project is designed to simplify the process of managing employee leave requests. With an simple & clean user interface, the app provides different dashboards and views based on the user's role, ensuring that both employees and managers can efficiently handle their leave requests and team activities.
+
+<br>
+<br>
+<br>
+
 Login ,Logout ,Profile Functionalties are implemented when clicked on main page even without logging directly it also redirects to the login page
 
 
@@ -7,7 +15,18 @@ Apply leave is implemented and also when applying if the dates is on sunday and 
 
 My team members data is displayed as cards
 
-logout profile card
+logout profile card is also created
+
+<br>
+<br>
+<h1>Additional Features</h1>
+If the user try to access the home page without logging in the page redirects to login page (used webfilter)
+
+<br>
+After user logged in a cookiee with name "unqId" will be created and it will be stored untill the user logout.
+
+<br>
+Maternity & Paternity leaves were assigned based on gender
 
 <br>
 <img width="951" alt="Screenshot 2024-09-01 220408" src="https://github.com/user-attachments/assets/52dbe79d-734a-4d20-becb-7e07fa71f564">
