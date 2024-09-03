@@ -3,15 +3,17 @@ Leave Management WebApp - This project is designed to simplify the process of ma
 <br>
 <br>
 <ul>
-<li>Login ,Logout ,Profile Functionalties are implemented when clicked on main page even without logging directly it will redirects to the login page</li>
+<li>Login ,Logout ,Profile Functionalties are implemented when clicked on main page even without logging directly it will redirects to the login page.</li>
 
-<li>Summary of leaves of myself and my team also validation based on gender (paternity or maternity leave)</li>
+<li>Summary of leaves of myself and my team also validation based on gender (paternity or maternity leave).</li>
 
-<li>Apply leave is implemented and also when applying if the dates is on sunday and saturday or a previous date will show enter a valid date</li>
+<li>Apply leave is implemented and also when applying if the dates is on sunday and saturday or a previous date , will ask to enter a valid date.</li>
 
-<li>My team members data is displayed as cards</li>
+<li>My team members data is displayed as cards , when cllicked on card their data will be presented on a dialog box.</li>
 
-<li> Profile card is also created</li>
+<li> Profile card along with necessities is also created.</li>
+
+<li>Highlighting the current page which the user currently in.</li>
 
 </ul>
 <h1>Additional Features</h1>
