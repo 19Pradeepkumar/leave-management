@@ -15,6 +15,7 @@ Leave Management WebApp - This project is designed to simplify the process of ma
 
 <li>Highlighting the current page which the user currently in.</li>
 
+<li>If the user is not a manager for any person then user do not see a my team section</li>
 </ul>
 <h1>Additional Features</h1>
 
